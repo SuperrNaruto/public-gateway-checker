@@ -1,9 +1,9 @@
 {
   "https://4everland.io": {
     "metadata": {
-      "time": "2025-09-05T03:55:54.707746698Z",
+      "time": "2025-09-05T05:58:50.823138719Z",
       "version": "v0.8.3",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/17483212391",
+      "job_url": "https://github.com/SuperrNaruto/public-gateway-checker/actions/runs/17485013631",
       "gateway_url": "https://4everland.io"
     },
     "results": {
@@ -26,9 +26,9 @@
   },
   "https://dlunar.net": {
     "metadata": {
-      "time": "2025-09-05T03:55:35.043740304Z",
+      "time": "2025-09-05T05:58:44.285070601Z",
       "version": "v0.8.3",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/17483212391",
+      "job_url": "https://github.com/SuperrNaruto/public-gateway-checker/actions/runs/17485013631",
       "gateway_url": "https://dlunar.net"
     },
     "results": {
@@ -81,9 +81,9 @@
   },
   "https://dweb.link": {
     "metadata": {
-      "time": "2025-09-05T03:55:39.417106669Z",
+      "time": "2025-09-05T05:58:45.941669937Z",
       "version": "v0.8.3",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/17483212391",
+      "job_url": "https://github.com/SuperrNaruto/public-gateway-checker/actions/runs/17485013631",
       "gateway_url": "https://dweb.link"
     },
     "results": {
@@ -106,9 +106,9 @@
   },
   "https://gateway.pinata.cloud": {
     "metadata": {
-      "time": "2025-09-05T04:03:53.861319845Z",
+      "time": "2025-09-05T06:07:01.173927857Z",
       "version": "v0.8.3",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/17483212391",
+      "job_url": "https://github.com/SuperrNaruto/public-gateway-checker/actions/runs/17485013631",
       "gateway_url": "https://gateway.pinata.cloud"
     },
     "results": {
@@ -123,17 +123,17 @@
         "skip": 0
       },
       "JSON-CBOR": {
-        "pass": 2,
-        "fail": 3,
+        "pass": 3,
+        "fail": 2,
         "skip": 0
       }
     }
   },
   "https://ipfs.cyou": {
     "metadata": {
-      "time": "2025-09-05T03:57:05.294360244Z",
+      "time": "2025-09-05T06:00:11.937730447Z",
       "version": "v0.8.3",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/17483212391",
+      "job_url": "https://github.com/SuperrNaruto/public-gateway-checker/actions/runs/17485013631",
       "gateway_url": "https://ipfs.cyou"
     },
     "results": {
@@ -154,11 +154,36 @@
       }
     }
   },
+  "https://ipfs.io": {
+    "metadata": {
+      "time": "2025-09-05T06:05:59.443710784Z",
+      "version": "v0.8.3",
+      "job_url": "https://github.com/SuperrNaruto/public-gateway-checker/actions/runs/17485013631",
+      "gateway_url": "https://ipfs.io"
+    },
+    "results": {
+      "DNSLink": {
+        "pass": 0,
+        "fail": 1,
+        "skip": 0
+      },
+      "CORS": {
+        "pass": 1,
+        "fail": 0,
+        "skip": 0
+      },
+      "JSON-CBOR": {
+        "pass": 0,
+        "fail": 3,
+        "skip": 0
+      }
+    }
+  },
   "https://ipfs.runfission.com": {
     "metadata": {
-      "time": "2025-09-05T03:55:56.625001219Z",
+      "time": "2025-09-05T05:58:50.550954853Z",
       "version": "v0.8.3",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/17483212391",
+      "job_url": "https://github.com/SuperrNaruto/public-gateway-checker/actions/runs/17485013631",
       "gateway_url": "https://ipfs.runfission.com"
     },
     "results": {
@@ -211,9 +236,9 @@
   },
   "https://nftstorage.link": {
     "metadata": {
-      "time": "2025-09-05T03:55:36.824473557Z",
+      "time": "2025-09-05T05:58:45.891272433Z",
       "version": "v0.8.3",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/17483212391",
+      "job_url": "https://github.com/SuperrNaruto/public-gateway-checker/actions/runs/17485013631",
       "gateway_url": "https://nftstorage.link"
     },
     "results": {
@@ -236,9 +261,9 @@
   },
   "https://trustless-gateway.link": {
     "metadata": {
-      "time": "2025-09-05T03:55:37.898255661Z",
+      "time": "2025-09-05T05:58:47.994060282Z",
       "version": "v0.8.3",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/17483212391",
+      "job_url": "https://github.com/SuperrNaruto/public-gateway-checker/actions/runs/17485013631",
       "gateway_url": "https://trustless-gateway.link"
     },
     "results": {
@@ -261,9 +286,9 @@
   },
   "https://w3s.link": {
     "metadata": {
-      "time": "2025-09-05T03:55:32.789153249Z",
+      "time": "2025-09-05T05:58:41.170736223Z",
       "version": "v0.8.3",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/17483212391",
+      "job_url": "https://github.com/SuperrNaruto/public-gateway-checker/actions/runs/17485013631",
       "gateway_url": "https://w3s.link"
     },
     "results": {
